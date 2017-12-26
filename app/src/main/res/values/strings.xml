@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BG Bulb</string>
+    <string name="bluebulb">bluebulb</string>
+    <string name="greenbulb">greenbulb</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+</resources>
